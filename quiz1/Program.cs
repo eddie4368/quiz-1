@@ -10,14 +10,13 @@ namespace quiz1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("what is your first name?");
-                
-            string firstname = Console.ReadLine();
+            Console.WriteLine("this is quiz 1 ");
 
-            Console.WriteLine("what is your last name?");
-            string lastname = Console.ReadLine();
 
-            Console.WriteLine("hello " + firstname + "" + lastname);
+            Console.ReadLine();
+
+
+            
 
         }
     }
